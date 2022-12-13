@@ -22,7 +22,7 @@ public class DBHelper extends SQLiteOpenHelper {
 
 
     public DBHelper( Context context) {
-        super(context, "Expenses.db", null, 1);
+        super(context, "200766F.sqlite", null, 1);
     }
 
 
